@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "gameVersionChecked": "UNKNOWN - fill in",
+  "causeMap": {
+    "tree": "hazard:treefall",
+    "fall": "hazard:falling",
+    "burning": "hazard:fire",
+    "poisoned": "hazard:poison",
+    "freezing": "hazard:freezing",
+    "drowning": "hazard:drowning",
+    "deathsquito": "enemy:deathsquito"
+  },
+  "biomes": {
+    "meadows": {
+      "displayName": "Meadows",
+      "order": null,
+      "bossOrGate": null,
+      "dangers": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "black_forest": {
+      "displayName": "Black Forest",
+      "order": null,
+      "bossOrGate": null,
+      "dangers": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "swamp": {
+      "displayName": "Swamp",
+      "order": null,
+      "bossOrGate": null,
+      "dangers": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "mountain": {
+      "displayName": "Mountain",
+      "order": null,
+      "bossOrGate": null,
+      "dangers": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "plains": {
+      "displayName": "Plains",
+      "order": null,
+      "bossOrGate": null,
+      "dangers": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "mistlands": {
+      "displayName": "Mistlands",
+      "order": null,
+      "bossOrGate": null,
+      "dangers": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "ashlands": {
+      "displayName": "Ashlands",
+      "order": null,
+      "bossOrGate": null,
+      "dangers": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "deep_north": {
+      "displayName": "Deep North",
+      "order": null,
+      "bossOrGate": null,
+      "dangers": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    }
+  },
+  "enemies": {
+    "deathsquito": {
+      "displayName": "Deathsquito",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "skeleton": {
+      "displayName": "Skeleton",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "draugr": {
+      "displayName": "Draugr",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "greydwarf": {
+      "displayName": "Greydwarf",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "troll": {
+      "displayName": "Troll",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "fuling": {
+      "displayName": "Fuling",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "lox": {
+      "displayName": "Lox",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "wolf": {
+      "displayName": "Wolf",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    },
+    "serpent": {
+      "displayName": "Serpent",
+      "prefabNames": [],
+      "biomes": [],
+      "tips": [],
+      "recommendedGear": [],
+      "verified": false
+    }
+  },
+  "hazards": {
+    "treefall": {
+      "displayName": "Treefall",
+      "tips": [],
+      "verified": false
+    },
+    "drowning": {
+      "displayName": "Drowning",
+      "tips": [],
+      "verified": false
+    },
+    "falling": {
+      "displayName": "Falling",
+      "tips": [],
+      "verified": false
+    },
+    "cold": {
+      "displayName": "Cold",
+      "tips": [],
+      "verified": false
+    },
+    "freezing": {
+      "displayName": "Freezing",
+      "tips": [],
+      "verified": false
+    },
+    "poison": {
+      "displayName": "Poison",
+      "tips": [],
+      "verified": false
+    },
+    "fire": {
+      "displayName": "Fire",
+      "tips": [],
+      "verified": false
+    },
+    "boats": {
+      "displayName": "Boats",
+      "tips": [],
+      "verified": false
+    },
+    "cooking": {
+      "displayName": "Cooking",
+      "tips": [],
+      "verified": false
+    }
+  }
+}
